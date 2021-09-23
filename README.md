@@ -22,6 +22,7 @@ Set global styles in `src/styles/global.css`. Import custom fonts in this file a
 
 #### Tailwind CSS example components
 
+- [Tailwind UI](https://tailwindui.com/preview)
 - [Tailblocks](https://tailblocks.cc/)
 - [Tailwind Components](https://tailwindcomponents.com/)
 - [MerakiUI](https://merakiui.com/)
