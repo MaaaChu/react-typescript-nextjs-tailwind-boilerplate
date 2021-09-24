@@ -9,7 +9,7 @@ const Layout: React.FC<LayoutProps> = ({ children, title }) => {
     <div className={`font-sans bg-background`}>
       <Meta title={title} />
       {/* <Navbar /> */}
-      <div className=''>{children}</div>
+      <main className=''>{children}</main>
       {/* <Footer /> */}
     </div>
   );
